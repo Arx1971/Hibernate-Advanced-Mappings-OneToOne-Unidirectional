@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e2494221-09eb-4f1d-b599-9c715f22cc7d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/hibernate/onetomany/unidirectional/model/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hibernate/onetomany/unidirectional/model/Course.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +107,7 @@
       <updated>1581372064111</updated>
       <workItem from="1581372065550" duration="981000" />
       <workItem from="1581373761036" duration="1983000" />
-      <workItem from="1581450038197" duration="5153000" />
+      <workItem from="1581450038197" duration="6921000" />
     </task>
     <servers />
   </component>
