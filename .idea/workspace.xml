@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2494221-09eb-4f1d-b599-9c715f22cc7d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Hibernate-Advanced-Mappings-OneToMany-Unidirectional.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Hibernate-Advanced-Mappings-OneToMany-Unidirectional.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hibernate/onetomany/unidirectional/model/Instructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hibernate/onetomany/unidirectional/model/Instructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hibernate/onetomany/unidirectional/model/InstructorDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hibernate/onetomany/unidirectional/model/InstructorDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Hibernate-Advanced-Mappings-OneToOne-Unidirectional-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +56,20 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.InsertCourseToInstructor">
+    <configuration name="InsertCourseToInstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.hibernate.onetomany.unidirectional.dal.InsertCourseToInstructor" />
+      <module name="Hibernate-Advanced-Mappings-OneToMany-Unidirectional" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hibernate.onetomany.unidirectional.dal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InsertInstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.hibernate.onetomany.unidirectional.dal.InsertInstructor" />
       <module name="Hibernate-Advanced-Mappings-OneToMany-Unidirectional" />
@@ -63,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertCourseToInstructor" />
         <item itemvalue="Application.InsertInstructor" />
       </list>
     </recent_temporary>
@@ -79,6 +102,7 @@
       <updated>1581372064111</updated>
       <workItem from="1581372065550" duration="981000" />
       <workItem from="1581373761036" duration="1983000" />
+      <workItem from="1581450038197" duration="2264000" />
     </task>
     <servers />
   </component>
@@ -90,21 +114,29 @@
       <screen x="1920" y="20" width="1920" height="1080" />
     </state>
     <state x="2710" y="246" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/45.27.1875.1053/1920.20.1920.1080@1920.20.1920.1080" timestamp="1581375283618" />
-    <state width="559" height="453" key="GridCell.Tab.0.bottom" timestamp="1581372093564">
-      <screen x="1920" y="20" width="1920" height="1080" />
+    <state x="824" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581451101179">
+      <screen x="47" y="27" width="1873" height="1053" />
+    </state>
+    <state x="824" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/47.27.1873.1053@47.27.1873.1053" timestamp="1581451101179" />
+    <state width="572" height="579" key="GridCell.Tab.0.bottom" timestamp="1581452476241">
+      <screen x="47" y="27" width="1873" height="1053" />
     </state>
     <state width="559" height="453" key="GridCell.Tab.0.bottom/45.27.1875.1053/1920.20.1920.1080@1920.20.1920.1080" timestamp="1581372093564" />
-    <state width="559" height="453" key="GridCell.Tab.0.center" timestamp="1581372093564">
-      <screen x="1920" y="20" width="1920" height="1080" />
+    <state width="572" height="579" key="GridCell.Tab.0.bottom/47.27.1873.1053@47.27.1873.1053" timestamp="1581452476241" />
+    <state width="572" height="579" key="GridCell.Tab.0.center" timestamp="1581452476241">
+      <screen x="47" y="27" width="1873" height="1053" />
     </state>
     <state width="559" height="453" key="GridCell.Tab.0.center/45.27.1875.1053/1920.20.1920.1080@1920.20.1920.1080" timestamp="1581372093564" />
-    <state width="559" height="453" key="GridCell.Tab.0.left" timestamp="1581372093564">
-      <screen x="1920" y="20" width="1920" height="1080" />
+    <state width="572" height="579" key="GridCell.Tab.0.center/47.27.1873.1053@47.27.1873.1053" timestamp="1581452476241" />
+    <state width="572" height="579" key="GridCell.Tab.0.left" timestamp="1581452476240">
+      <screen x="47" y="27" width="1873" height="1053" />
     </state>
     <state width="559" height="453" key="GridCell.Tab.0.left/45.27.1875.1053/1920.20.1920.1080@1920.20.1920.1080" timestamp="1581372093564" />
-    <state width="559" height="453" key="GridCell.Tab.0.right" timestamp="1581372093564">
-      <screen x="1920" y="20" width="1920" height="1080" />
+    <state width="572" height="579" key="GridCell.Tab.0.left/47.27.1873.1053@47.27.1873.1053" timestamp="1581452476240" />
+    <state width="572" height="579" key="GridCell.Tab.0.right" timestamp="1581452476241">
+      <screen x="47" y="27" width="1873" height="1053" />
     </state>
     <state width="559" height="453" key="GridCell.Tab.0.right/45.27.1875.1053/1920.20.1920.1080@1920.20.1920.1080" timestamp="1581372093564" />
+    <state width="572" height="579" key="GridCell.Tab.0.right/47.27.1873.1053@47.27.1873.1053" timestamp="1581452476241" />
   </component>
 </project>

@@ -1,0 +1,4 @@
+org/hibernate/onetomany/unidirectional/dal/InsertInstructor.class
+org/hibernate/onetomany/unidirectional/model/Instructor.class
+org/hibernate/onetomany/unidirectional/model/InstructorDetail.class
+org/hibernate/onetomany/unidirectional/model/Course.class
