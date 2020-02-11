@@ -26,8 +26,6 @@ public class InsertCourseReview {
 
             Course course = session.get(Course.class, 10);
 
-            System.out.println(course);
-
             List<Review> reviews = new ArrayList<>();
 
             Review review1 = new Review("This is the best Class.");
