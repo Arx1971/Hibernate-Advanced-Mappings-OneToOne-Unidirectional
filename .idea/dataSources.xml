@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="hibernate.cfg.xml/Hibernate" uuid="71392ba6-bd10-459e-b0da-3301ddfcbe44">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/home/adnan/source-code/IdeaProjects/Hibernate-Advanced-Mappings-OneToMany-Unidirectional/src/main/resources/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/hb-04-one-to-many-uni?useSSL=false&amp;serverTimezone=UTC</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="hibernate.cfg.xml/Hibernate" uuid="c4814fed-d528-45c6-bf93-9acf26ffcc28">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/home/adnan/source-code/IdeaProjects/Hibernate-Advanced-Mappings-OneToMany-Unidirectional/target/classes/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/hb-04-one-to-many-uni?useSSL=false&amp;serverTimezone=UTC</jdbc-url>
+    </data-source>
+  </component>
+</project>

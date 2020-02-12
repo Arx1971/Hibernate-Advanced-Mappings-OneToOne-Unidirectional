@@ -24,10 +24,13 @@ public class GetCourseReviews {
             int theCourseId = 10;
 
 
+            Course course = session.get(Course.class, theCourseId);
+
+
+            System.out.println(course.getReviews());
 
             session.getTransaction().commit();
-        }
-        finally {
+        } finally {
             session.close();
             sessionFactory.close();
         }

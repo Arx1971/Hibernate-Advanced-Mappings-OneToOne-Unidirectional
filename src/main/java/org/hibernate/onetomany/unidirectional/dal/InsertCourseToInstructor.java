@@ -6,6 +6,7 @@ import org.hibernate.cfg.Configuration;
 import org.hibernate.onetomany.unidirectional.model.Course;
 import org.hibernate.onetomany.unidirectional.model.Instructor;
 import org.hibernate.onetomany.unidirectional.model.InstructorDetail;
+import org.hibernate.onetomany.unidirectional.model.Review;
 
 
 import java.util.ArrayList;
@@ -16,7 +17,7 @@ public class InsertCourseToInstructor {
     public static void main(String args[]) {
 
         SessionFactory sessionFactory = new Configuration().configure("hibernate.cfg.xml")
-                .addAnnotatedClass(Course.class).addAnnotatedClass(Instructor.class)
+                .addAnnotatedClass(Course.class).addAnnotatedClass(Instructor.class).addAnnotatedClass(Review.class)
                 .addAnnotatedClass(InstructorDetail.class).buildSessionFactory();
 
 
