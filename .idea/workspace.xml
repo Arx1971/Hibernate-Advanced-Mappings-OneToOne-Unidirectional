@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2494221-09eb-4f1d-b599-9c715f22cc7d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Hibernate-Advanced-Mappings-OneToMany-Unidirectional.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Hibernate-Advanced-Mappings-OneToMany-Unidirectional.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/hibernate/onetomany/unidirectional/dal/GetCourseReviews.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hibernate/onetomany/unidirectional/dal/GetCourseReviews.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/hibernate/onetomany/unidirectional/dal/InsertCourseToInstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hibernate/onetomany/unidirectional/dal/InsertCourseToInstructor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +122,7 @@
       <workItem from="1581372065550" duration="981000" />
       <workItem from="1581373761036" duration="1983000" />
       <workItem from="1581450038197" duration="6921000" />
-      <workItem from="1581547655565" duration="255000" />
+      <workItem from="1581547655565" duration="1324000" />
     </task>
     <servers />
   </component>
@@ -146,25 +143,25 @@
       <screen x="47" y="27" width="1873" height="1053" />
     </state>
     <state x="824" y="444" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/47.27.1873.1053@47.27.1873.1053" timestamp="1581451101179" />
-    <state width="559" height="453" key="GridCell.Tab.0.bottom" timestamp="1581547942049">
+    <state width="559" height="453" key="GridCell.Tab.0.bottom" timestamp="1581547955494">
       <screen x="1920" y="20" width="1920" height="1080" />
     </state>
-    <state width="559" height="453" key="GridCell.Tab.0.bottom/45.27.1875.1053/1920.20.1920.1080@1920.20.1920.1080" timestamp="1581547942049" />
+    <state width="559" height="453" key="GridCell.Tab.0.bottom/45.27.1875.1053/1920.20.1920.1080@1920.20.1920.1080" timestamp="1581547955494" />
     <state width="540" height="579" key="GridCell.Tab.0.bottom/47.27.1873.1053@47.27.1873.1053" timestamp="1581455456184" />
-    <state width="559" height="453" key="GridCell.Tab.0.center" timestamp="1581547942048">
+    <state width="559" height="453" key="GridCell.Tab.0.center" timestamp="1581547955494">
       <screen x="1920" y="20" width="1920" height="1080" />
     </state>
-    <state width="559" height="453" key="GridCell.Tab.0.center/45.27.1875.1053/1920.20.1920.1080@1920.20.1920.1080" timestamp="1581547942048" />
+    <state width="559" height="453" key="GridCell.Tab.0.center/45.27.1875.1053/1920.20.1920.1080@1920.20.1920.1080" timestamp="1581547955494" />
     <state width="540" height="579" key="GridCell.Tab.0.center/47.27.1873.1053@47.27.1873.1053" timestamp="1581455456184" />
-    <state width="559" height="453" key="GridCell.Tab.0.left" timestamp="1581547942048">
+    <state width="559" height="453" key="GridCell.Tab.0.left" timestamp="1581547955494">
       <screen x="1920" y="20" width="1920" height="1080" />
     </state>
-    <state width="559" height="453" key="GridCell.Tab.0.left/45.27.1875.1053/1920.20.1920.1080@1920.20.1920.1080" timestamp="1581547942048" />
+    <state width="559" height="453" key="GridCell.Tab.0.left/45.27.1875.1053/1920.20.1920.1080@1920.20.1920.1080" timestamp="1581547955494" />
     <state width="540" height="579" key="GridCell.Tab.0.left/47.27.1873.1053@47.27.1873.1053" timestamp="1581455456183" />
-    <state width="559" height="453" key="GridCell.Tab.0.right" timestamp="1581547942049">
+    <state width="559" height="453" key="GridCell.Tab.0.right" timestamp="1581547955494">
       <screen x="1920" y="20" width="1920" height="1080" />
     </state>
-    <state width="559" height="453" key="GridCell.Tab.0.right/45.27.1875.1053/1920.20.1920.1080@1920.20.1920.1080" timestamp="1581547942049" />
+    <state width="559" height="453" key="GridCell.Tab.0.right/45.27.1875.1053/1920.20.1920.1080@1920.20.1920.1080" timestamp="1581547955494" />
     <state width="540" height="579" key="GridCell.Tab.0.right/47.27.1873.1053@47.27.1873.1053" timestamp="1581455456184" />
   </component>
 </project>
